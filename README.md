@@ -12,6 +12,8 @@ Meu nome é Gabriel, também conhecido como Sajah, tenho 22 anos e sou desenvolv
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
+[![wakatime](https://wakatime.com/badge/user/9e72cf3a-83eb-4320-b747-9dae036f05e5.svg)](https://wakatime.com/@9e72cf3a-83eb-4320-b747-9dae036f05e5)
+
 ## SoftSkills:
 - Metodologia ágil
 - Curioso
