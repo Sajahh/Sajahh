@@ -1,10 +1,7 @@
 # Olá! 👋
 
- Meu nome é Gabriel, mas você pode me chamar de Sajah. Tenho 23 anos e sou um desenvolvedor Fullstack, mas tenho um amor especial pelo desenvolvimento Backend. Estou sempre procurando entender melhor as tecnologias e colocar em prática o meu conhecimento para me aprimorar enquanto programador. Atualmente, tenho experiência em trabalhar com JavaScript, TypeScript, Python, Selenium, Node.js e Banco de dados relacionais, mas também estou estudando Rust e outros temas relacionados a computação de baixo nível.
+Meu nome é Gabriel Azevedo, tenho 23 anos e sou um desenvolvedor Fullstack, mas tenho um foco principal em desenvolvimento Backend. Estou sempre procurando entender melhor as tecnologias e colocar em prática o meu conhecimento para aprimorara-los enquanto programador. Atualmente, tenho experiência em trabalhar com JavaScript, TypeScript, Python, Selenium, Node.js e Banco de dados relacionais, mas também estou estudando Rust e conceitos gerais de programação como protocolo de redes, estruturas de dados, alocação de memória, criptografia, dentre outros assuntos. Tenho como objetivo entender afundo a ciência da computação para me tornar alguém que resolve problemas independente da linguagem ou ferramenta.
 
-Além do desenvolvimento de software, também sou apaixonado por arte, sempre tentando criar experiências e expressões, além de reagir a elas. Sonho em transformar o mundo através da arte e da tecnologia.
-
-Gosto de comparecer e contribuir em eventos da minha comunidade e desejo trazer cada vez mais acessibilidade a tecnologia e uma boa utilização para que cause impactos reais e positivos na vida das pessoas.
 
 ## HardSkills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
