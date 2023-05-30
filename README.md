@@ -23,6 +23,4 @@ Meu nome é Gabriel Azevedo, também conhecido como Sajah, tenho 23 anos e sou u
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-azevedo-8a3593227/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](azs.gabriel00@gmail.com)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sajahh&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![wakatime](https://wakatime.com/badge/user/9e72cf3a-83eb-4320-b747-9dae036f05e5.svg)](https://wakatime.com/@9e72cf3a-83eb-4320-b747-9dae036f05e5)
