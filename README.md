@@ -1,7 +1,7 @@
 # Olá! 👋
 
 
-Meu nome é Gabriel. Tenho 24 anos e sou desenvolvedor Backend. Atualmente, tenho experiência em trabalhar com JavaScript, TypeScript, Python, Node.js, Flask, Django, Angular e Bancos de dados relacionais como MySQL, PostgresSQL, SQLite e outros. Busco construir sistemas que visam em primeiro lugar solucionar o problema do cliente, entregando um software seguro, performático, legível e escalável . Além do desenvolvimento, também tenho experiência na criação da arquitetura dos projetos, na tomada de decisões do pré-projeto para ter um desenvolvimento mais inteligente, eficiente e ainda assim preservar o menor custo. Tenho como objetivo entender afundo a ciência da computação para me tornar alguém que resolve problemas independente da linguagem ou ferramenta, garantindo sempre a qualidade e o valor do que entrego.
+Meu nome é Gabriel. Tenho 25 anos e sou desenvolvedor Backend. Atualmente, tenho experiência em trabalhar com JavaScript, TypeScript, Python, Node.js, Go, Flask, Django, Angular e Bancos de dados relacionais como MySQL, PostgresSQL, SQLite e outros. Busco construir sistemas que visam em primeiro lugar solucionar o problema do cliente, entregando um software seguro, performático, legível e escalável . Além do desenvolvimento, também tenho experiência na criação da arquitetura dos projetos, na tomada de decisões do pré-projeto para ter um desenvolvimento mais inteligente, eficiente e ainda assim preservar o menor custo. Tenho como objetivo entender afundo a ciência da computação para me tornar alguém que resolve problemas independente da linguagem ou ferramenta, garantindo sempre a qualidade e o valor do que entrego.
 
 
 
